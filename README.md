@@ -5,12 +5,13 @@ conducir.
 # exerc_2.js
 Pide una nota (número). Muestra la calificación según la
 nota:
-● 0-3: Muy deficiente
-● 3-5: Insuficiente
-● 5-6: Suficiente
-● 6-7: Bien
-● 7-9: Notable
-● 9-10: Sobresaliente
+
+● 0-3: Muy deficiente\
+● 3-5: Insuficiente\
+● 5-6: Suficiente\
+● 6-7: Bien\
+● 7-9: Notable\
+● 9-10: Sobresaliente\
 
 # exerc_3.js
 En un estacionamiento cobran $/. 1.500 por hora o fracción.
@@ -37,6 +38,7 @@ docenas del producto.
 Crea un script que pida al usuario el diámetro de una rueda
 y su grosor (en metros) y a través de condicionales if realice
 las siguientes operaciones:
+
 ● a) Si el diámetro es superior a 1.4 debe mostrarse el
 mensaje “La rueda es para un vehículo grande”. Si es
 menor o igual a 1.4 pero mayor que 0.8 debe mostrarse el
